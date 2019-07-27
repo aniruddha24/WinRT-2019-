@@ -1,2 +1,2 @@
-# WinRT-2019-
+# WinRT-2019
 WinRT
