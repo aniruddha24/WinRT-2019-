@@ -1,0 +1,6 @@
+#include <windows.h>
+#include "MyIconAndSplash.h"
+
+MYICON ICON om.ico
+MYBITMAP BITMAP loardhanuman.bmp
+
