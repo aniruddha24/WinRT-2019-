@@ -1,0 +1,7 @@
+LIBRARY ClassFactoryDllServerWithRegFile
+EXPORTS
+		DllGetClassObject	
+		DllCanUnloadNow		
+
+
+
