@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\CLSID\{F81E42BF-1169-495A-8870-8AD84A67E7ED}]
+@="MyComDll_Autoamtion"
+[HKEY_CLASSES_ROOT\CLSID\{F81E42BF-1169-495A-8870-8AD84A67E7ED}\InprocServer32]
+@="C:\\Windows\\System32\\AutomationServerWithRegFile.dll"
