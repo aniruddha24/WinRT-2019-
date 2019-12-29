@@ -1,0 +1,7 @@
+LIBRARY	AniruddhaVanjariServer
+EXPORTS
+		DllGetClassObject	PRIVATE
+		DllCanUnloadNow		PRIVATE
+
+
+

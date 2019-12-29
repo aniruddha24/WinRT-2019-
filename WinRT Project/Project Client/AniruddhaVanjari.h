@@ -1,0 +1,26 @@
+#define MYICON		100
+#define MYBITMAP	101 
+#define ID_ETNAME	102
+#define ID_ETADDRESS	103
+#define ID_ETAGE	104
+#define ID_ETSALRS	105
+#define ID_ETSALPS	106
+#define ID_RBMARRIED 	107
+#define ID_RBUNMARRIED	108
+#define ID_PBCONTINUE	109
+#define ID_PBSEARCH	110
+#define ID_CANCEL	111
+#define IDS_FIRSTCOLUMNS 1
+#define C_COLUMNS	1
+#define BUFSIZE 	100
+//#define ID_ETNAME1	112
+#define ID_DISPLAY	113
+
+
+
+
+
+
+
+
+

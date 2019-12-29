@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\CLSID\{0346ABA0-B3B2-4F19-B27B-9E39311ADAB0}]
+@="MyComDll"
+[HKEY_CLASSES_ROOT\CLSID\{0346ABA0-B3B2-4F19-B27B-9E39311ADAB0}\InprocServer32]
+@="C:\\Windows\\System32\\AniruddhaVanjariServer.dll"
